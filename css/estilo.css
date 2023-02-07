@@ -1,0 +1,151 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+body{
+    font-size: 1em;
+	font-family: "Trebuchet MS", Helvetica, sans-serif;
+	background: #e6e6e6;
+}
+
+.cabecalho{
+    background: #e0a800 ;
+    margin-bottom: 20px;
+
+}
+
+#titulo{
+    font-size: 40px;
+    color: #636363;
+    padding-top: 30px;
+    padding-bottom: 30px ; 
+    text-align: center;
+}
+
+#voce{
+    color: #fff;
+}
+
+.menu{
+    padding-bottom: 25px;
+    text-align: center;
+}
+
+.elementos-nav{
+    padding: 13px;
+    color: #fff;
+    text-decoration: none;
+}
+
+.elementos-nav:hover{
+    background-color: #fff ;
+    color:#e0a800 ;
+}
+
+.conteudo{
+    margin: auto;
+    width: 920px; 
+  
+}
+
+.noticia{
+    
+    width: 670px;
+    float: left;
+    padding-bottom: 15px;
+    margin-bottom: 20px;
+    background: white;
+}
+
+.titulo{
+    padding: 15px 15px 0 15px;
+    color:#e0a800;
+}
+
+.subtitulo-noticia{
+    padding-left: 15px;
+
+    font-size: 13px;
+}
+
+.hr{
+   margin: 15px;
+
+}
+
+.img-noticia{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.texto-noticia{
+    padding: 5px 15px ;
+}
+
+.btn-info{
+    padding-left: 15px;
+    text-decoration: none;
+    color: #e0a800;
+}
+
+.clear{
+    clear: both;
+}
+
+.conteudo-lateral{
+    float: right;
+    width: 230px;
+    background: #fff;
+    padding-bottom: 10px;
+    margin-bottom: 20px;
+}
+
+#area-postagem{
+    width: 620px;
+    float: left;
+}
+
+.conteudo-lateral h3{
+    padding: 10px;
+    background: #e6e6e6;
+    margin: 5px;
+    
+}
+
+.conteudo-lateral p{
+    margin: 0 10px 0 10px;
+    font-size: 13px;
+}
+
+.a-lat{
+    margin-left: 10px;
+    font-size: 13px;
+    margin-bottom: 10px;
+    text-decoration: none;
+    color: #e0a800;
+}
+
+.conteudo-lateral hr{
+    margin: 10px;
+}
+
+.menu-lateral{
+    margin: 10px;
+}
+
+#rodape{
+    clear: both;
+	text-align: center;
+	padding: 15px;
+	background: #CCC;
+    margin-bottom: 15px;
+}
+
+.item-menu-lat{
+    text-decoration: none;
+    color: #e0a800;
+    font-size: 20px;
+    margin-left: 10px;
+}
